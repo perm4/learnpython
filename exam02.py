@@ -1,3 +1,4 @@
+# exam02.py
 # 02장 연습문제
 # (연습문제 풀이 : https://wikidocs.net/12769#02)
 
